@@ -8,16 +8,11 @@ permalink: /resume/
 
 ## TECHNOLOGIES
 
-<ul>
-<li>DAWs
-<ul>
-<li>Ableton Live</li>
-<li>Propellerheads Reason</li>
-<li>Logic Pro</li>
-</ul>
-</li>
-<li>Audiokinectic Wwise (Wave Works Interactive Sound Engine)</li>
-</ul>
+Ableton Live
+Propellerheads Reason
+Logic Pro
+Audiokinectic Wwise (Wave Works Interactive Sound Engine)
+
 
 ## PROGRAMMING LANGUAGES
 Pure Data
