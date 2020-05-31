@@ -4,4 +4,6 @@ title: "tutorials"
 permalink: /tutorials/
 ---
 
-{{ content }}
+## Understanding granular synthesis with pure data
+
+Text example
