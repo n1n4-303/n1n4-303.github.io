@@ -24,9 +24,7 @@ permalink: /resume/
 
 Arts Bachelor (Level 6)
 Federal University of Bahia (UFBA) | 2015
-Salvador, BA – Brazil  
-
-
+Salvador, BA – Brazil<br>
 
 School of Video Game Audio
 Wwise course | 2020
