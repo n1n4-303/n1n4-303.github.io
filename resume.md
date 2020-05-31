@@ -9,7 +9,7 @@ permalink: /resume/
 ## SUMMARY OF SKILLS
 
 <ul>
-<li> DAWs
+<li>DAWs
 <ul>
 <li>Ableton Live</li>
 <li>Propellerheads Reason</li>
