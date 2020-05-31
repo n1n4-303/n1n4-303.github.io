@@ -6,7 +6,7 @@ permalink: /resume/
 
 # RESUME
 
-## SUMMARY OF SKILLS
+## TECHNOLOGIES
 
 <ul>
 <li>DAWs
@@ -19,6 +19,10 @@ permalink: /resume/
 <li>Audiokinectic Wwise (Wave Works Interactive Sound Engine)</li>
 </ul>
 
+## PROGRAMMING LANGUAGES
+Pure Data
+C#
+Processing
 
 ## EDUCATION  
 
