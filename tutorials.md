@@ -26,3 +26,5 @@ The bang is your record button. Note that pd records at whatever sample rate ADC
 <br />[tabwrite~] will allow to us to visualize our waveform and store it. For that to happen, you need to create an array with a matching name.
 <br />Here our array is going to be one second long.
 <br />
+![array-properties](https://user-images.githubusercontent.com/64982634/83362038-17e43b80-a386-11ea-8364-cf0d2047492f.JPG)
+<br />
