@@ -30,3 +30,6 @@ The bang is your record button. Note that pd records at whatever sample rate ADC
 <br />
 I added 3 points to the size so that I could use a 44.1 value in my patch. You might want to look up how our [tabwrite4~] object operates to understand interpolation. We're going to use it here to read our array continuously.
 <br />I'm also going to create a way for us to write and read our sample file. Here's how:
+<br />
+![soundfiler](https://user-images.githubusercontent.com/64982634/83362167-1109f880-a387-11ea-8809-508a4ff3cc96.JPG)
+<br />
