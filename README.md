@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Music Producer/Sound designer
+
+Paranoia is a Brazilian DJ, producer and sound designer based in Lisbon. Paranoia started making electronic music in 2009. They’re inspired by the underground sound of techno, EBM and by synthesizer and electronic music pioneers such as Pauline Oliveros and Wendy Carlos and that influence can be heard throughout their productions and DJ sets. Paranoia’s goal is to create a unique sonic experience every time.
 
 You can use the [editor on GitHub](https://github.com/n1n4-303/paranoia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Test
+### Wwise demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39J1ile_gDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
