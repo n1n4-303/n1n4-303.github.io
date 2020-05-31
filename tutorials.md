@@ -22,3 +22,7 @@ The signal coming from your microphone is an analog signal which represents in v
 <br />
 ![recorder](https://user-images.githubusercontent.com/64982634/83361865-790b0f80-a384-11ea-864a-ae847d533a62.JPG)
 <br />
+The bang is your record button. Note that pd records at whatever sample rate ADC and DAC are running at, this is defined in your audio settings, so be aware of that.
+<br />[tabwrite~] will allow to us to visualize our waveform and store it. For that to happen, you need to create an array with a matching name.
+<br />Here our array is going to be one second long.
+<br />
