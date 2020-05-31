@@ -3,5 +3,6 @@ remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - tutorials.md
   - music.md
+  - resume.md
 
 footer: 'follow me on <a href="https://twitter.com/djparanoiaprod">twitter</a>'
