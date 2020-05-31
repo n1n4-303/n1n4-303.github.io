@@ -6,4 +6,4 @@ permalink: /tutorials/
 
 ## Understanding granular synthesis with pure data
 
-Text example
+tutorial example pure data
