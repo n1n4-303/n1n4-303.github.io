@@ -49,3 +49,9 @@ The [ *~ ] object will allow us to manipulate the amount of the sample we want t
 <img src="https://user-images.githubusercontent.com/64982634/83400407-abefea80-a3fa-11ea-9981-cd69d70748dc.JPG" width="591">
 <br />
 We're going to put the sample size control into a subpatch to keep things clean.
+<br />
+![patch-1](https://user-images.githubusercontent.com/64982634/83406180-0478b500-a406-11ea-8ab2-78aecf5ffbd6.JPG)
+<br />
+Now, if you change the 1000 ms to a lower value, you will read just a portion of the array, but it will take an entire second to do it, as defined by phasor speed.
+<br />Try changing to 500ms and you'll see that to read at the original speed you will have to increase the phasor speed to 2 Hz.
+<br />
