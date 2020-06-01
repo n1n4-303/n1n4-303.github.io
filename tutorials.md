@@ -4,7 +4,7 @@ title: "tutorials"
 permalink: /tutorials/
 ---
 
-[Pure data] [Understanding granular synthesis with pure data](granular.md)
+[PURE DATA] [Understanding granular synthesis with pure data](granular.md)
 
 # Understanding granular synthesis with pure data
   
