@@ -48,3 +48,4 @@ The [*~] object will allow us to manipulate the amount of the sample we want to 
 <br />
 ![sampler-2](https://user-images.githubusercontent.com/64982634/83400407-abefea80-a3fa-11ea-9981-cd69d70748dc.JPG)
 <br />
+We're going to put the sample size control into a subpatch to keep things clean.
