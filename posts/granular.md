@@ -40,7 +40,7 @@ I added 3 points to the size so that I could use a 44.1 value in my patch. You m
 ![dac-tab](https://user-images.githubusercontent.com/64982634/83399431-1dc73480-a3f9-11ea-8d2d-a6571ccb4115.JPG)
 <br />
 <br />**The sampler**
-<br />Now we're going to have a [phasor~] reading the sample and then a multiplier [*~] and [+~] initially set to read the entire sample. You'll see where this is going now.
+<br />Now we're going to have a [phasor~] reading the sample and then a multiplier [ *~ ] and [+~] initially set to read the entire sample. You'll see where this is going now.
 <br />
 ![phasor-1](https://user-images.githubusercontent.com/64982634/83399821-c4abd080-a3f9-11ea-9ef2-2ab1312f6763.jpg)
 <br />
