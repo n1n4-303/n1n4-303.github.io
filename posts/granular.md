@@ -63,4 +63,4 @@ You might have noticed at this point that something is causing your audio to pro
 ========================================================================================================================================
 References:
 Roads, C., 2004. Microsound. MIT press.
-http://www.pd-tutorial.com/english/ch03s07.html
+Johannes Kreidler's website http://www.pd-tutorial.com/english/ch03s07.html
