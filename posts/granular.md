@@ -60,7 +60,7 @@ Now, if you change the 1000 ms to a lower value, you will read just a portion of
 You might have noticed at this point that something is causing your audio to produce little clicks while you manipulate the values on your number boxes. This is caused by discontinuity on the [tableread4~] object. [line~] will fix it by ramping up the value, instead of jumping so we pack the sample size information together with a ramping time for [line~].
 <br />Try exploring the possibilities of this patch, you can always add more to it: add filters, delay, reverb, envelope generators, it's up to you really.
 <br />This is just an introductory tutorial, but it opens a lot of possibilties to explore this technique in more complex ways. I hope it can give you a better grasp on how granular synthesis works in your computer.
-
+<br />
 
 ===============================================================================
 References:
