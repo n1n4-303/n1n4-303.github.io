@@ -1,3 +1,8 @@
+---
 layout: default
-title: "Granular"
-permalink: /tutorials/granular
+title: "tutorials"
+permalink: /tutorials/
+---
+
+# Understanding granular synthesis with pure data
+  
