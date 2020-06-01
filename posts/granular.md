@@ -46,3 +46,5 @@ I added 3 points to the size so that I could use a 44.1 value in my patch. You m
 <br />
 The [*~] object will allow us to manipulate the amount of the sample we want to playback and the [+~] will set the starting point.
 <br />
+![sampler-2](https://user-images.githubusercontent.com/64982634/83400407-abefea80-a3fa-11ea-9981-cd69d70748dc.JPG)
+<br />
