@@ -44,6 +44,6 @@ I added 3 points to the size so that I could use a 44.1 value in my patch. You m
 <br />
 ![phasor-1](https://user-images.githubusercontent.com/64982634/83399821-c4abd080-a3f9-11ea-9ef2-2ab1312f6763.jpg)
 <br />
-The [*~] object will allow us to manipulate the amount of the sample we want to playback and the [+~] will set the starting point.
+The [ *~ ] object will allow us to manipulate the amount of the sample we want to playback and the [+~] will set the starting point.
 <br />
 
