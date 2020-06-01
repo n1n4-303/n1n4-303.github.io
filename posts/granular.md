@@ -62,7 +62,7 @@ You might have noticed at this point that something is causing your audio to pro
 <br />This is just an introductory tutorial, but it opens a lot of possibilties to explore this technique in more complex ways. I hope it can give you a better grasp on how granular synthesis works in your computer.
 <br />
 
-===============================================================================
+================================================================================
 References:
 Roads, C., 2004. Microsound. MIT press.
 Johannes Kreidler's website http://www.pd-tutorial.com/english/ch03s07.html
