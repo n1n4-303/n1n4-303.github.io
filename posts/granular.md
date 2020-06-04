@@ -53,7 +53,7 @@ I added 3 points to the size so that I could use a 44.1 value in my patch. You m
 ![phasor-1](https://user-images.githubusercontent.com/64982634/83399821-c4abd080-a3f9-11ea-9ef2-2ab1312f6763.jpg)
 *Fig.7 phasor~ - sawtooth signal for table lookup*
 <br />
-The [ *~ ] object will allow us to manipulate the amount of the sample we want to playback and the [+~] will set the starting point.
+The [\*~] object will allow us to manipulate the amount of the sample we want to playback and the [+~] will set the starting point.
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/83400407-abefea80-a3fa-11ea-9981-cd69d70748dc.JPG" width="591">
 *Fig.8 Patch overview*
