@@ -61,12 +61,13 @@ The [ *~ ] object will allow us to manipulate the amount of the sample we want t
 We're going to put the sample size control into a subpatch to keep things clean.
 <br />
 ![patch-1](https://user-images.githubusercontent.com/64982634/83406180-0478b500-a406-11ea-8ab2-78aecf5ffbd6.JPG)
-*Fig.9 Sample size control subpatch*
+*Fig.9 Creating sample size control subpatch*
 <br />
 Now, if you change the 1000 ms to a lower value, you will read just a portion of the array, but it will take an entire second to do it, as defined by phasor speed.
 <br />Try changing to 500ms and you'll see that to read at the original speed you will have to increase the phasor speed to 2 Hz.
 <br />
 ![samplesize-subpatch](https://user-images.githubusercontent.com/64982634/83406368-66d1b580-a406-11ea-8518-f5c572b9914c.JPG)
+*Fig.10 Sample size control subpatch*
 <br />
 You might have noticed at this point that something is causing your audio to produce little clicks while you manipulate the values on your number boxes. This is caused by discontinuity on the [tableread4~] object. [line~] will fix it by ramping up the value instead of jumping so we pack the sample size information together with a ramping time for [line~].
 <br />Now that we've got everything working, try exploring the possibilities of this patch, you can always add more to it: add filters, delay, reverb, envelope generators, it's up to you really.
