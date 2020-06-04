@@ -70,7 +70,7 @@ Now, if you change the 1000 ms to a lower value, you will read just a portion of
 *Fig.10 Sample size control subpatch*
 <br />
 ![starting-point-sub](https://user-images.githubusercontent.com/64982634/83767350-73a81080-a675-11ea-97bc-9fb1a2707885.JPG)
-*Fig.11 Starting control subpatch*
+*Fig.11 Starting point control subpatch*
 <br />
 You might have noticed at this point that something is causing your audio to produce little clicks while you manipulate the values on your number boxes. This is caused by discontinuity on the [tableread4~] object. [line~] will fix it by ramping up the value instead of jumping so we pack the sample size information together with a ramping time for [line~].
 <br />Now that we've got everything working, try exploring the possibilities of this patch, you can always add more to it: add filters, delay, reverb, envelope generators, it's up to you really.
