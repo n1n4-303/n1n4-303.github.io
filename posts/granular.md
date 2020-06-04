@@ -32,17 +32,20 @@ The bang is your record button. Note that pd records at whatever sample rate ADC
 *Fig.3 Defining array properties*
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/83753569-6fbec300-a662-11ea-8f58-395a662b93fe.JPG" width="591">
+*Fig.4 Waveform recorded into array*
 <br />
 I added 3 points to the size so that I could use a 44.1 value in my patch. You might want to look up how our [tabwrite4~] object operates to understand interpolation. For a more in depth explanation you can also check chapter 2 of Miller Puckette's book “The theory and technique of electronic music”. We're going to use interpolation here to increase the accuracy of table lookup and read continuosly.
 <br />I'm also going to create a way for us to write and read our sample file. Here's how:
 <br />
 ![soundfiler](https://user-images.githubusercontent.com/64982634/83362167-1109f880-a387-11ea-8809-508a4ff3cc96.JPG)
+*Fig.5 Soundfiler: read and write soundfiles to arrays*
 <br />
 → Why can't I read my file?
 <br />A reason you might not be able to read a file from soundfiler is that you must save the patch first so that pd knows what directory to read from. Pd will save your sample to the same directory as the patch. I'm also going to create a way for us to write and read our sample file. Here's how:
 <br />Lets put a [tabread4~] as I mentioned before to read from our "sampling" array. And we should also add a [dac~] in order to listen to the sample and give it a on and off button.
 <br />
 ![dac-tab](https://user-images.githubusercontent.com/64982634/83399431-1dc73480-a3f9-11ea-8d2d-a6571ccb4115.JPG)
+*Fig.6 Table lookup and DAC*
 <br />
 <br />**The sampler**
 <br />Now we're going to have a [phasor~] reading the sample and then a multiplier [ *~ ] and [+~] initially set to read the entire sample. You'll see where this is going now.
