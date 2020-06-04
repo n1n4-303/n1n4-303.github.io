@@ -28,6 +28,8 @@ The bang is your record button. Note that pd records at whatever sample rate ADC
 <br />
 ![array-properties](https://user-images.githubusercontent.com/64982634/83362038-17e43b80-a386-11ea-8364-cf0d2047492f.JPG)
 <br />
+![array](https://user-images.githubusercontent.com/64982634/83753569-6fbec300-a662-11ea-8f58-395a662b93fe.JPG)
+<br />
 I added 3 points to the size so that I could use a 44.1 value in my patch. You might want to look up how our [tabwrite4~] object operates to understand interpolation. For a more in depth explanation you can also check chapter 2 of Miller Puckette's book “The theory and technique of electronic music”. We're going to use interpolation here to increase the accuracy of table lookup and read continuosly.
 <br />I'm also going to create a way for us to write and read our sample file. Here's how:
 <br />
