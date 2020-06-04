@@ -58,7 +58,7 @@ The [\*~] object will allow us to manipulate the amount of the sample we want to
 <img src="https://user-images.githubusercontent.com/64982634/83400407-abefea80-a3fa-11ea-9981-cd69d70748dc.JPG" width="591">
 *Fig.8 Patch overview*
 <br />
-We're going to put the sample size control into a subpatch to keep things clean.
+We're going to put the sample size control and starting point control into subpatches to keep things clean.
 <br />
 ![patch-1](https://user-images.githubusercontent.com/64982634/83406180-0478b500-a406-11ea-8ab2-78aecf5ffbd6.JPG)
 *Fig.9 Creating sample size control subpatch*
