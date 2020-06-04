@@ -17,7 +17,7 @@ permalink: /tutorials/granular
 <br />
 ![subpatch-recorder](https://user-images.githubusercontent.com/64982634/83361737-46ace280-a383-11ea-8692-bd982ff0bf39.JPG)
 <br />
-The signal coming from your microphone is an analog signal which represents in voltage the changes that happen in air pressure. What the adc does is to translate these into digital domain by capturing periodic snapshots of that voltage and representing these snapshots as discrete numbers.
+The signal coming from your microphone is an analog signal which represents in voltage the changes that happen in air pressure. What the adc does is to translate these into digital domain by capturing periodic snapshots of that voltage and representing those snapshots as discrete numbers.
 <br />Later in the patch you'll see that we need a [dac~], a digital-to-analog-converter in order to listen to these numbers back through our speakers.
 <br />
 ![recorder](https://user-images.githubusercontent.com/64982634/83361865-790b0f80-a384-11ea-864a-ae847d533a62.JPG)
