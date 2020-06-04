@@ -27,7 +27,7 @@ The bang is your record button. Note that pd records at whatever sample rate ADC
 <br />Here our array is going to be one second long we're going to call it “sampling”.
 <br />
 ![array-properties](https://user-images.githubusercontent.com/64982634/83362038-17e43b80-a386-11ea-8364-cf0d2047492f.JPG)
-*array properties*
+*Fig.3 Defining array properties*
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/83753569-6fbec300-a662-11ea-8f58-395a662b93fe.JPG" width="591">
 <br />
