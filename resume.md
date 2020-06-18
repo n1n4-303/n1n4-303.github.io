@@ -12,6 +12,7 @@ Ableton Live
 Propellerheads Reason
 Logic Pro
 Audiokinectic Wwise (Wave Works Interactive Sound Engine)
+VCV Rack
 
 
 ## PROGRAMMING LANGUAGES
