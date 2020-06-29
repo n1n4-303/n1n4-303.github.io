@@ -1,5 +1,5 @@
 ---
-title: home
+title: home | Nina Vieira
 layout: home
 permalink: /
 ---
