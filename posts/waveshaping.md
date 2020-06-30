@@ -22,9 +22,9 @@ The new shape you will create on your output depends on different things:
  - shape of the incoming wave
  - amplitude of the incoming signal 
 <br />
-The amplitude of the incoming waveform is called the waveshaping index. The index provides continuous control of the spectrum making possible dynamic spectra through time variation. A small index will generally introduce little distortion, as the index is increased the spectrum becomes richer, see Puckette, 2007.
+<br />The amplitude of the incoming waveform is called the waveshaping index. The index provides continuous control of the spectrum making possible dynamic spectra through time variation. A small index will generally introduce little distortion, as the index is increased the spectrum becomes richer, see Puckette, 2007.
 <br />
-I'll show you how you can observe this with pd:
+<br />I'll show you how you can observe this with pd:
 <br />
 ![waveshaping-vs-linear-2](https://user-images.githubusercontent.com/64982634/86159745-a8877600-bb02-11ea-95bc-86128911fc5a.JPG)
 *Fig.3 Waveshaping vs linear*
