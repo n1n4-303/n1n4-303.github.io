@@ -26,8 +26,10 @@ The new shape you will create on your output depends on different things:
 <br />
 <br />I'll show you how you can observe this with pd:
 <br />
-![waveshaping-vs-linear-2](https://user-images.githubusercontent.com/64982634/86159745-a8877600-bb02-11ea-95bc-86128911fc5a.JPG)
+<img src="https://user-images.githubusercontent.com/64982634/86159745-a8877600-bb02-11ea-95bc-86128911fc5a.JPG" width="591">
 *Fig.3 Waveshaping vs linear*
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3vaxSWWWg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 ================================================================================ 
