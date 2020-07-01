@@ -41,7 +41,7 @@ I added 3 points to the size so that I could use a 44.1 value in my patch. You m
 *Fig.5 Soundfiler: read and write soundfiles to arrays*
 <br />
 → Why can't I read my file?
-<br />A reason you might not be able to read a file from soundfiler is that you must save the patch first so that pd knows what directory to read from. Pd will save your sample to the same directory as the patch. I'm also going to create a way for us to write and read our sample file. Here's how:
+<br />A reason you might not be able to read a file from soundfiler is that you must save the patch first so that pd knows what directory to read from. Pd will save your sample to the same directory as the patch.
 <br />Lets put a [tabread4~] as I mentioned before to read from our "sampling" array. And we should also add a [dac~] in order to listen to the sample and give it a on and off button.
 <br />
 ![dac-tab](https://user-images.githubusercontent.com/64982634/83399431-1dc73480-a3f9-11ea-8d2d-a6571ccb4115.JPG)
