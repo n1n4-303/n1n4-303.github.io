@@ -28,3 +28,22 @@ permalink: /tutorials/wave-symmetry
 <br />
 <br />Note that because of its symmetry, the cosine fuction will double the frequency that we hear. What I did here was using an [osc~] to read from these two different tables and observe the results. I created an Index control and made the signal range from 1 to 100 by multiplying by 50 and then adding 51 and used [tabread4~] to read the table. How I'm drawing these functions to the table here is not relevant to the point I'm making at the moment since we're going to use [cos~] later.
 <br />
+<img src="https://user-images.githubusercontent.com/64982634/87286005-2d559500-c4f0-11ea-91e5-52e221c3d651.JPG" width="591">
+*Fig.5 Sine function waveform*
+<br />
+<img src="https://user-images.githubusercontent.com/64982634/87286065-42322880-c4f0-11ea-8e2c-8e54a3d547cb.JPG" width="591">
+*Fig.6 Cosine function waveform*
+<br />
+<br />As you can see, the transfer function determines your control over the shape and harmonic content of the waveform. Remember that the harmonics are what makes us differentiate between two different instruments playing the same pitch.
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K55meFGz0Yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+Now I will show you how to add some extra control to your patch, because you can transform the symmetry of the function. There is a help patch that uses the same technique in a different way, E07.evenodd.pd. And this time we won't need to read from a table, we're just using the [cos~] object instead.
+<br />
+<img src="https://user-images.githubusercontent.com/64982634/87286143-6130ba80-c4f0-11ea-91fe-4b55bebf695f.JPG" width="591">
+*Fig.7 - Offset control*
+<br />
+<br />We're using a non-linear transfer funcion - [cos~] - and we're adding an offset control, so you will basically have an even/odd control and transform the symmetry of the waveform, because you are changing the point from where you start reading.
+<br />
+<br />Let's take a look at the amount of control you can have over timbre with this technique.
+<br />
