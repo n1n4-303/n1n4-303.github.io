@@ -42,8 +42,18 @@ Now I will show you how to add some extra control to your patch, because you can
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87286143-6130ba80-c4f0-11ea-91fe-4b55bebf695f.JPG" width="591">
 *Fig.7 - Offset control*
-<br />
 <br />We're using a non-linear transfer funcion - [cos~] - and we're adding an offset control, so you will basically have an even/odd control and transform the symmetry of the waveform, because you are changing the point from where you start reading.
-<br />
 <br />Let's take a look at the amount of control you can have over timbre with this technique.
 <br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4JNFZS_74E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />You definitely don't have to know this to make electronic music, however, this kind of knowledge can save you a lot of time in expressing your ideas because it becomes easier to understand how to reach that sound you have in your head.
+
+================================================================================ 
+References:
+Russ, Martin. Sound synthesis and sampling. Taylor & Francis, 2004.
+Dodge, Charles, and Thomas A. Jerse. Computer music: synthesis, composition and performance. Macmillan Library Reference, 1997.
+
+Links to UCSD course: 
+https://podcast.ucsd.edu/watch/wi16/mus171wi16/2/screen
+http://msp.ucsd.edu/syllabi/171.16w/index.htm
+
