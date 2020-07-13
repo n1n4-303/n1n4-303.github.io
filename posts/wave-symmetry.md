@@ -46,11 +46,12 @@ Now I will show you how to add some extra control to your patch, because you can
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4JNFZS_74E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />You definitely don't have to know this to make electronic music, however, this kind of knowledge can save you a lot of time in expressing your ideas because it becomes easier to understand how to reach that sound you have in your head.
 <br />
+
 ================================================================================ 
 References:
 Russ, Martin. Sound synthesis and sampling. Taylor & Francis, 2004.
 Dodge, Charles, and Thomas A. Jerse. Computer music: synthesis, composition and performance. Macmillan Library Reference, 1997.
-
+<br />
 Links to UCSD course: 
 https://podcast.ucsd.edu/watch/wi16/mus171wi16/2/screen
 http://msp.ucsd.edu/syllabi/171.16w/index.htm
