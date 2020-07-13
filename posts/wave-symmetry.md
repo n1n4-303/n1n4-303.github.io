@@ -8,7 +8,6 @@ permalink: /tutorials/wave-symmetry
 
 <br />In my introductory tutorial on [waveshaping](https://n1n4-303.github.io/tutorials/waveshaping) I told you about the possibility of building different waveforms and how that might be musically interesting. For that first tutorial, I used [clip~] to exemplify how waveshaping works, however, there are other ways to produce different transfer functions that you can use for multiple purposes.
 <br />In this tutorial I'm going to use [cos~] as a transfer function to demonstrate the relationship between waveform symmetry and tone quality or timbre. What [cos~] does is multiplying its input by 2pi and giving the cosine of the result. An important thing to remember about [cos~] is that it takes its input in cycles, so your input should range from 0 to 1. My patch is based on professor Puckette's UCSD course, so if you're interested, I highly recommend you check that, I'll leave the link on the references section.
-<br />
 <br />First, I’m going to show you visually the difference between a sine and a cosine function.
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87284086-e5ce0980-c4ed-11ea-9c06-15c6f1f53967.png" width="297">
@@ -33,7 +32,6 @@ permalink: /tutorials/wave-symmetry
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87286065-42322880-c4f0-11ea-8e2c-8e54a3d547cb.JPG" width="591">
 *Fig.6 Cosine function waveform*
-<br />
 <br />As you can see, the transfer function determines your control over the shape and harmonic content of the waveform. Remember that the harmonics are what makes us differentiate between two different instruments playing the same pitch.
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K55meFGz0Yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
