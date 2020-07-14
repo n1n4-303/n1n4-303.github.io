@@ -9,7 +9,7 @@ permalink: /resume/
 ## TECHNOLOGIES
 
 Ableton Live
-Propellerheads Reason
+Reason
 Logic Pro
 Audiokinectic Wwise (Wave Works Interactive Sound Engine)
 VCV Rack
@@ -46,3 +46,5 @@ Educational Testing Service (ETS)
 Dancefloor DJ Academy – Lisbon, PT
 <br />Music Production – Dancemusic Master (2009)
 Dancefloor DJ Academy – Lisbon, PT
+
+<br />contact me: vi.marinavieira@gmail.com
