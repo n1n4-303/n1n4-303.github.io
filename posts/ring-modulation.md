@@ -18,7 +18,8 @@ In ring modulation, the carrier signal is multiplied by the modulating signal. I
 *Fig.2 - Sidebands produced by ring modulation*
 <br />
 Since we're using 2 sine wave oscillators, the spectrum produced has 2 sideband frequencies. And as you can see neither of the original frequencies are present in the output spectrum.
-<br />You can use a microphone input to get that robot voice I initially told you about - your voice will be the carrier in this case. Let's add an [adc~] and amplify the signal [*~ 10] and then multiply it by our modulator.
+<br />You can use a microphone input to get that robot voice I initially told you about - your voice will be the carrier in this case. Let's add an [adc~] and amplify the signal [\*~ 10] and then multiply it by our modulator.
+<br />
 ![ring-mic-patch](https://user-images.githubusercontent.com/64982634/87942022-e76e7300-ca93-11ea-8d8e-12ddda8e54fd.JPG)
 *Fig.3 - Using a microphone as input*
 <br />
