@@ -13,7 +13,7 @@ permalink: /tutorials/ring-modulation
 <br />
 In ring modulation, the carrier signal is multiplied by the modulating signal. If the modulating frequency is within the audio range, it will produce sidebands that correspond to the sum and difference between the frequencies of each oscillator at the output. This effect can be used to modify sounds and produce robotic voices and metalic, inharmonic chaotic tones, as I will demonstrate.
 <br />Let me show you what I mean by that: we're going to multiply two [osc~] objects and take a look at the spectrum produced as a result.
-![output-ring-2](https://user-images.githubusercontent.com/64982634/87941907-bd1cb580-ca93-11ea-814f-e246b70f35de.jpg)
+<img src="https://user-images.githubusercontent.com/64982634/87941907-bd1cb580-ca93-11ea-814f-e246b70f35de.jpg" width="591">
 *Fig.2 - Sidebands produced by ring modulation*
 <br />
 Since we're using 2 sine wave oscillators, the spectrum produced has 2 sideband frequencies. And as you can see neither of the original frequencies are present in the output spectrum.
@@ -32,7 +32,7 @@ I set the Carrier A to MIDI note 30, which is equivalent to 46,25Hz (F#0) and Ca
 <br />Now, I'll take a break to explain something important if you're not that familiar with Pd yet: in Pd, the cold inlet (the second one) doesn't take effect until you change the value in the first inlet, so if I change the modulator frequency it won't take effect until I change the carrier frequency. The way you fix that is by using [t b f] so that any time you change the modifier it will also send a bang to the first inlet, forcing the multiplication to happen.
 <br />That being said, let's take a look at the spectrum:
 <br />
-![harmonic-f-spectrum](https://user-images.githubusercontent.com/64982634/87942414-72e80400-ca94-11ea-9124-6376c82087bf.JPG)
+<img src="https://user-images.githubusercontent.com/64982634/87942414-72e80400-ca94-11ea-9124-6376c82087bf.JPG" width="591">
 *Fig.5 - Spectrum analysis of the product*
 <br />
 What we have here are 4 partials:
@@ -46,14 +46,15 @@ Video demonstration
 <br />
 I encourage you to try ring modulation and see what kind of sounds you can produce just by using this effect, try using different waveshapes and see how you can produce complex spectra, like in the example below.
 <br />
-![ring-saw](https://user-images.githubusercontent.com/64982634/87942700-e7bb3e00-ca94-11ea-8284-0fbc554ecf25.JPG)
+<img src="https://user-images.githubusercontent.com/64982634/87942700-e7bb3e00-ca94-11ea-8284-0fbc554ecf25.JPG" width="591">
 *Fig.6 - Using a sawtooth as carrier*
 <br />
-![saw-ring-spec](https://user-images.githubusercontent.com/64982634/87942786-01f51c00-ca95-11ea-85f9-051ffd4ff56e.JPG)
+<img src="https://user-images.githubusercontent.com/64982634/87942786-01f51c00-ca95-11ea-85f9-051ffd4ff56e.JPG" width="591">
 *Fig.7 - Complex spectrum produced by ring modulation*
 <br />
 If you want to learn more about ring modulation check the references section, lots of great resources!
 <br />
+
 ================================================================================ 
 
 References:
