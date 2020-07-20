@@ -44,7 +44,7 @@ What we have here are 4 partials:
 4th: B+M = 277,5Hz (C#3)
 <br />
 Video demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iqZgfjoLVmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMHrhy161YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 I encourage you to try ring modulation and see what kind of sounds you can produce just by using this effect, try using different waveshapes and see how you can produce complex spectra, like in the example below.
 <br />
