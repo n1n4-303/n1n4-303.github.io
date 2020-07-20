@@ -13,6 +13,7 @@ permalink: /tutorials/ring-modulation
 <br />
 In ring modulation, the carrier signal is multiplied by the modulating signal. If the modulating frequency is within the audio range, it will produce sidebands that correspond to the sum and difference between the frequencies of each oscillator at the output. This effect can be used to modify sounds and produce robotic voices and metalic, inharmonic chaotic tones, as I will demonstrate.
 <br />Let me show you what I mean by that: we're going to multiply two [osc~] objects and take a look at the spectrum produced as a result.
+<br />
 <img src="https://user-images.githubusercontent.com/64982634/87941907-bd1cb580-ca93-11ea-814f-e246b70f35de.jpg" width="591">
 *Fig.2 - Sidebands produced by ring modulation*
 <br />
