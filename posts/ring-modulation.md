@@ -35,3 +35,30 @@ I set the Carrier A to MIDI note 30, which is equivalent to 46,25Hz (F#0) and Ca
 ![harmonic-f-spectrum](https://user-images.githubusercontent.com/64982634/87942414-72e80400-ca94-11ea-9124-6376c82087bf.JPG)
 *Fig.5 - Spectrum analysis of the product*
 <br />
+What we have here are 4 partials:
+1st: B-M = 92,5Hz (F#1)
+2nd: A-M = 138,75Hz (C#2)
+3rd: A+M =231,25Hz (A#2)
+4th: B+M = 277,5Hz (C#3)
+<br />
+Video demonstration
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iqZgfjoLVmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+I encourage you to try ring modulation and see what kind of sounds you can produce just by using this effect, try using different waveshapes and see how you can produce complex spectra, like in the example below.
+<br />
+![ring-saw](https://user-images.githubusercontent.com/64982634/87942700-e7bb3e00-ca94-11ea-8284-0fbc554ecf25.JPG)
+*Fig.6 - Using a sawtooth as carrier*
+<br />
+![saw-ring-spec](https://user-images.githubusercontent.com/64982634/87942786-01f51c00-ca95-11ea-85f9-051ffd4ff56e.JPG)
+*Fig.7 - Complex spectrum produced by ring modulation*
+<br />
+If you want to learn more about ring modulation check the references section, lots of great resources!
+<br />
+================================================================================ 
+
+References:
+Puckette, Miller. The theory and technique of electronic music. World Scientific Publishing Company, 2007.
+Strange, Allen. Electronic music: systems, techniques, and controls. William C Brown Pub, 1983.
+Aikin, Jim. Power tools for synthesizer programming: the ultimate reference for sound design. Backbeat Books, 2004.
+FLOSS Manuals - http://write.flossmanuals.net/pure-data/amplitude-modulation/
+Wikipedia page - https://en.m.wikipedia.org/wiki/Ring_modulation
