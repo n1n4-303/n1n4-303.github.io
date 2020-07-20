@@ -30,7 +30,7 @@ If the oscillators frequencies are harmonically related, ring modulation will pr
 ![harmonics-ring-3](https://user-images.githubusercontent.com/64982634/87942131-0b31b900-ca94-11ea-8200-7b163880df55.JPG)
 *Fig.4 - Adding harmonic partials*
 <br />
-I set the Carrier A to MIDI note 30, which is equivalent to 46,25Hz (F#0) and Carrier B is twice the frequency, hence 1 octave up, 92,5 Hz (F#1). The modulator (M) is set to 4x 46,25Hz or 185Hz.
+I set Carrier A to MIDI note 30, which is equivalent to 46,25Hz (F#0) and Carrier B is twice the frequency, hence 1 octave up, 92,5 Hz (F#1). The modulator (M) is set to 4x 46,25Hz or 185Hz.
 <br />Now, I'll take a break to explain something important if you're not that familiar with Pd yet: in Pd, the cold inlet (the second one) doesn't take effect until you change the value in the first inlet, so if I change the modulator frequency it won't take effect until I change the carrier frequency. The way you fix that is by using [t b f] so that any time you change the modifier it will also send a bang to the first inlet, forcing the multiplication to happen.
 <br />That being said, let's take a look at the spectrum:
 <br />
