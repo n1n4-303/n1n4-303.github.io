@@ -40,7 +40,7 @@ I set Carrier A to MIDI note 30, which is equivalent to 46,25Hz (F#0) and Carrie
 What we have here are 4 partials:
 1st: B-M = 92,5Hz (F#1)
 2nd: A-M = 138,75Hz (C#2)
-3rd: A+M =231,25Hz (A#2)
+3rd: A+M = 231,25Hz (A#2)
 4th: B+M = 277,5Hz (C#3)
 <br />
 Video demonstration
@@ -52,7 +52,7 @@ I encourage you to try ring modulation and see what kind of sounds you can produ
 *Fig.6 - Using a sawtooth as carrier*
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87942786-01f51c00-ca95-11ea-85f9-051ffd4ff56e.JPG" width="591">
-*Fig.7 - Complex spectrum produced by ring modulation*
+*Fig.7 - More complex spectrum produced by ring modulation*
 <br />
 If you want to learn more about ring modulation check the references section, lots of great resources!
 <br />
