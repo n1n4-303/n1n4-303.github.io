@@ -8,10 +8,12 @@ permalink: /tutorials/ring-modulation
 
 <br />EXTERMINATE! If you like Doctor Who, you've heard this before. I'm going to talk about the effect behind a Dalek's voice: ring modulation, also known as balanced modulation. Ring modulation is a signal processing function, a type of amplitude modulation (AM) that takes its name from the shape formed by the diodes on its analog circuit implementation. It was originally used for analog telephony.
 <br />
+<img src="https://i2.wp.com/media.tumblr.com/tumblr_mcyszapmEg1rucjjm.gif">
+<br />
 <a title="No machine-readable author provided. Gablin assumed (based on copyright claims). / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Ring_Modulator.PNG"><img width="512" alt="Ring Modulator" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Ring_Modulator.PNG"></a>
 *Fig.1 - Ring modulator schematic*
 <br />
-In ring modulation, the carrier signal is multiplied by the modulating signal. If the modulator is under the audible range, you will perceive it as a tremolo, however if the modulating frequency is within the audible range, it will produce sidebands that correspond to the sum and difference between the frequencies of each oscillator at the output. This effect can be used to modify sounds and produce robotic voices and metalic, inharmonic chaotic tones, as I will demonstrate.
+In ring modulation, the carrier signal is multiplied by the modulating signal. If the modulator is under the audible range, you will perceive it as a tremolo, however if the modulating frequency is within the audible range, it will produce sidebands that correspond to the sum and difference between the frequencies of each oscillator at the output. This effect can be used to modify sounds and produce robotic voices - like Daleks - and metalic, inharmonic chaotic tones, as I will demonstrate.
 <br />Let me show you what I mean by that: we're going to multiply two [osc~] objects and take a look at the spectrum produced as a result.
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87941907-bd1cb580-ca93-11ea-814f-e246b70f35de.jpg" width="591">
@@ -56,7 +58,6 @@ I encourage you to try ring modulation and see what kind of sounds you can produ
 <br />
 If you want to learn more about ring modulation check the references section, lots of great resources!
 <br />
-<img src="https://media3.giphy.com/media/TElUQ8phjH7qr8lI1r/giphy.gif">
 
 ================================================================================ 
 
