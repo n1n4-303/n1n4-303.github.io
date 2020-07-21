@@ -56,6 +56,7 @@ I encourage you to try ring modulation and see what kind of sounds you can produ
 <br />
 If you want to learn more about ring modulation check the references section, lots of great resources!
 <br />
+<img src="https://media3.giphy.com/media/TElUQ8phjH7qr8lI1r/giphy.gif">
 
 ================================================================================ 
 
