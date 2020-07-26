@@ -6,10 +6,9 @@ permalink: /tutorials/vcv-pd
 
 # Create your own VCV Rack module with Pd
 
-<br />VCV Prototype is a scripting language host for VCV Rack from which you can create your own VCV Rack module. Now, after being funded, support to Pd and Vult DSP language were just added. And that's exciting news so, I'm going to show you what this is about and how you can create your own module using Pd.
+<br />VCV Prototype is a scripting language host for VCV Rack from which you can create your own VCV Rack module. Now, after being funded support to Pd and Vult DSP language were just added. And that's great news so, I'm going to show you what this is about and how you can create your own module using Pd.
 <br />Since I just talked about [ring modulation](https://n1n4-303.github.io/tutorials/ring-modulation), I'm going to adapt the patch we used on the last tutorial for our example here. 
-<br />The carrier is going to be a VCO module from VCV, so we need to tell Pd that we're receiving audio from Prototype and you do that by adding an [adc~]. I'm amplifying the signal by multiplying it by 1.
-For the modulating signal, we need to receive control data from VCV to change the osc frequency, so we use [r fromRack] and [route K1] to map the control - prototype has 6 knobs (K1, K2, K3.. and so on), in this case I'm just using one. If you're starting to get lost here and you need the reference to keep up, you can find it in the github repository: there is a file named template.pd in examples. My attempt here is to make a simple guide for your first steps into this.
+<br />The carrier is going to be a VCO module from Bogaudio, so we need to tell Pd that we're receiving audio from Prototype and you do that by adding an [adc~]. I'm amplifying the signal by multiplying it by 1. For the modulating signal, we need to receive control data from VCV to change the osc frequency, so we use [r fromRack] and [route K1] to map the control - prototype has 6 knobs (K1, K2, K3.. and so on) - in this case I'm just using one. If you're starting to get lost here and you need the reference to keep up, you can find it in the github repository: there is a file named template.pd in examples. My attempt here is to make a simple guide for your first steps into this.
 <br />
 ![pd-prototype](https://user-images.githubusercontent.com/64982634/88485820-e7c5ad00-cf70-11ea-9b3a-fa570da283c3.jpg)
 *Fig.1 - Pd patch and VCV prototype*
@@ -45,8 +44,11 @@ References
 VCV Prototype
 https://library.vcvrack.com/VCV-Prototype/Prototype
 
-VCV Prototype source
+<br />VCV Prototype source
 https://github.com/VCVRack/VCV-Prototype
 
-VCV Community Announcement
+<br />VCV Community Announcement
 https://community.vcvrack.com/t/pure-data-added-to-vcv-prototype/10583
+
+<br />Bogaudio modules
+https://library.vcvrack.com/?brand=Bogaudio
