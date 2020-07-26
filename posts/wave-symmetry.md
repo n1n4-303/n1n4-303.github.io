@@ -53,6 +53,6 @@ Russ, Martin. Sound synthesis and sampling. Taylor & Francis, 2004.
 Dodge, Charles, and Thomas A. Jerse. Computer music: synthesis, composition and performance. Macmillan Library Reference, 1997.
 <br />
 Links to UCSD course: 
-https://podcast.ucsd.edu/watch/wi16/mus171wi16/2/screen
-http://msp.ucsd.edu/syllabi/171.16w/index.htm
+<https://podcast.ucsd.edu/watch/wi16/mus171wi16/2/screen>
+<http://msp.ucsd.edu/syllabi/171.16w/index.htm>
 
