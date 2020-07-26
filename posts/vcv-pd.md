@@ -38,7 +38,7 @@ Another interesting thing is that we have a nice RGB for the L indicators, so we
 ![colors-module](https://user-images.githubusercontent.com/64982634/88485897-b4cfe900-cf71-11ea-9dcc-ad1c81c61f97.png)
 *Fig.6 - RGB indicators on Prototype.*
 <br />
-This is all exciting news and I'm still learning and exploring too so I hope this is helpful to anyone out there doing the same thing!
+This is all exciting news and I'm still learning and exploring too so I hope this is helpful to anyone out there doing the same!
 <br />
 
 ================================================================================ 
