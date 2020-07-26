@@ -81,4 +81,4 @@ You might have noticed at this point that something is causing your audio to pro
 References:
 Roads, Curtis. Microsound. MIT press, 2004.
 Puckette, Miller. The theory and technique of electronic music. World Scientific Publishing Company, 2007.
-Johannes Kreidler's website http://www.pd-tutorial.com/english/ch03s07.html
+Johannes Kreidler's website <http://www.pd-tutorial.com/english/ch03s07.html>
