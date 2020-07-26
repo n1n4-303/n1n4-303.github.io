@@ -6,7 +6,7 @@ permalink: /tutorials/vcv-pd
 
 # Create your own VCV Rack module with Pd
 
-<br />VCV Prototype is a scripting language host for VCV Rack from which you can now create your own VCV Rack module. After a successful fundraiser, support to Pd and Vult DSP language were just added. And that's great news so, I'm going to show you what this is about and how you can create your own module using Pd.
+<br />VCV Prototype is originally a scripting language host for VCV Rack from which you can now create your own VCV Rack module. After a successful fundraiser, support to Pd and Vult DSP language were just added. And that's great news so, I'm going to show you what this is about and how you can create your own module using Pd.
 <br />Since I just talked about [ring modulation](https://n1n4-303.github.io/tutorials/ring-modulation), I'm going to adapt the patch we used on the last tutorial for our example here. 
 <br />The carrier is going to be a VCO module from Bogaudio, so we need to tell Pd that we're receiving audio from Prototype and you do that by adding an [adc~]. I'm amplifying the signal by multiplying it by 1. For the modulating signal, we need to receive control data from VCV to change the osc frequency, so we use [r fromRack] and [route K1] to map the control - prototype has 6 knobs (K1, K2, K3.. and so on) - in this case I'm just using one. If you're starting to get lost here and you need the reference to keep up, you can find it in the github repository: there is a file named template.pd in examples. My attempt here is to make a simple guide for your first steps into this.
 <br />
