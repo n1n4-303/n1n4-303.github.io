@@ -15,6 +15,8 @@ permalink: /tutorials/vcv-pd
 <br />
 Now that we're done with our patch, let's fire up VCV and add Prototype.
 <br />
+<img src="https://i.makeagif.com/media/4-20-2018/hmsFMZ.gif">
+<br />
 ![drop-down-vcv](https://user-images.githubusercontent.com/64982634/88485851-35dab080-cf71-11ea-8bb4-1ac10053a510.png)
 *Fig.2 - Setting up VCV Prototype*
 <br />
@@ -37,9 +39,10 @@ Another interesting thing is that we have a nice RGB for the L indicators, so we
 *Fig.6 - RGB indicators on Prototype.*
 <br />
 This is all exciting news and I'm still learning and exploring too so I hope this is helpful to anyone out there doing the same thing!
+<br />
 
 ================================================================================ 
-References
+References:
 
 VCV Prototype
 https://library.vcvrack.com/VCV-Prototype/Prototype
