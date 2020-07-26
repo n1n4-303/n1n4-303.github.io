@@ -11,7 +11,7 @@ permalink: /resume/
 Ableton Live
 Reason
 Logic Pro
-Audiokinectic Wwise (Wave Works Interactive Sound Engine)
+Audiokinetic Wwise (Wave Works Interactive Sound Engine)
 VCV Rack
 
 
