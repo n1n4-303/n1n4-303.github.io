@@ -65,5 +65,5 @@ References:
 Puckette, Miller. The theory and technique of electronic music. World Scientific Publishing Company, 2007.
 Strange, Allen. Electronic music: systems, techniques, and controls. William C Brown Pub, 1983.
 Aikin, Jim. Power tools for synthesizer programming: the ultimate reference for sound design. Backbeat Books, 2004.
-FLOSS Manuals - http://write.flossmanuals.net/pure-data/amplitude-modulation/
-Wikipedia page - https://en.m.wikipedia.org/wiki/Ring_modulation
+FLOSS Manuals <http://write.flossmanuals.net/pure-data/amplitude-modulation/>
+Wikipedia page <https://en.m.wikipedia.org/wiki/Ring_modulation>
