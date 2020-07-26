@@ -30,7 +30,7 @@ Then you can add an input and test. The flashing yellow lights indicate that we 
 <br />
 <img src="https://i.makeagif.com/media/4-20-2018/hmsFMZ.gif">
 <br />
-Another interesting thing is that we have a nice RGB for the L indicators, so we can also add lights. I'm just using one of them, but I added another 3 to show you how you can use different colors. The first variable is for red, second for green and the last is blue. In the L4 message you can see that by adding green and blue I got a nice cyan (is it cyan?) color. This also works for the switches as well but instead of L1, L2, you have to use S1, S2.
+Another interesting thing is that we have a nice RGB for the L indicators, so we can also add lights. I'm just using one of them, but I added other 3 to show you how you can use different colors. The first variable is for red, second for green and the last is blue. In the L4 message you can see that by adding green and blue I got a nice cyan (is it cyan?) color. This also works for the switches as well but instead of L1, L2, you have to use S1, S2.
 <br />
 ![add-rgb](https://user-images.githubusercontent.com/64982634/88485889-9d90fb80-cf71-11ea-8b2b-6de4c448f325.png)
 *Fig.5 - Adding colors*
