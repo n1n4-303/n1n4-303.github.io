@@ -12,6 +12,9 @@ permalink: /tutorials/easteregg
 <img src="https://user-images.githubusercontent.com/64982634/90643158-26c2e780-e22b-11ea-93b8-dc937d583d9f.png" width="591">
 *Fig.1 - Easter egg*
 <br />
+<br />Easter egg demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50SBQaS9I4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
 The main things I needed for this project, the way I interpreted it, were:
 1 - a way to open my source file
 2 - a way to print out "x" seconds from buffer into a file
