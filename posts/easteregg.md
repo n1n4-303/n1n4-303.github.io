@@ -16,6 +16,7 @@ permalink: /tutorials/easteregg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50SBQaS9I4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 The main things I needed for this project, the way I interpreted it, were:
+<br />
 1 - a way to open my source file
 2 - a way to print out "x" seconds from buffer into a file
 3 - some fx to manipulate the source
