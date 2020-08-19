@@ -6,8 +6,7 @@ permalink: /tutorials/easteregg
 
 # Easter egg - Making a Pd sound design tool
 
-<br />I was reading an article about the sound of Ghost of Tsushima and the amazing world created by the Sucker Punch sound team and something Josh Lord (Senior Sound Designer) said caught my attention.
-<br />While talking about the UI/UX sounds he said a particular tool was very useful: he created a Max/MSP patch for processing the source, something like a "happy accidents" generator that had the ability of printing out something that happened while he was tweaking the sound. I thought it sounded like a really interesting and useful sound design tool so I decided to try making my own Pd tool that would do something similar. I'm going to show you how it looks like and then we'll see a little about what is going on inside.
+<br />I was reading an article about the sound of Ghost of Tsushima and the amazing world created by the Sucker Punch sound team and something Josh Lord (Senior Sound Designer) said caught my attention. While talking about the UI/UX sounds he said a particular tool was very useful: he created a Max/MSP patch for processing the source, something like a "happy accidents" generator that had the ability of printing out something that happened while he was tweaking the sound. I thought it sounded like a really interesting and useful sound design tool so I decided to try making my own Pd tool that would do something similar. I'm going to show you how it looks like and then we'll see a little about what is going on inside.
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/90643158-26c2e780-e22b-11ea-93b8-dc937d583d9f.png" width="591">
 *Fig.1 - Easter egg*
