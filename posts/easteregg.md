@@ -65,7 +65,7 @@ For reverb I used [freeverb~], a Schroeder/Moorer reverb external that uses 8 co
 The chorus is produced by reading 3 copies of the delay line at a slightly different pitch and phase than the other. In other words, we have an input and the signal is distributed in 2 ways: one goes directly to the output and a copy goes to the delay line, then I can create 3 different LFO's that will read from a single delay line.
 <br />
 ![chorus-sub](https://user-images.githubusercontent.com/64982634/90641065-b0bd8100-e228-11ea-995f-a504b39d7d05.png)
-*Fig.9 - Chorus subpatch
+*Fig.9 - Chorus subpatch*
 <br />
 Then I added a simple low-pass filter using [lop~].
 <br />
