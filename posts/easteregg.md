@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Easter egg - Making a Pd sound design tool"
-permalink: /tutorials/easter-egg
+permalink: /tutorials/easteregg
 ---
 
 # Easter egg - Making a Pd sound design tool
