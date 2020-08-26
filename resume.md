@@ -6,13 +6,14 @@ permalink: /resume/
 
 # RESUME
 
-## TECHNOLOGIES
+## TECHNOLOGIES AND TOOLS
 
 Ableton Live
 Reason
 Logic Pro
 Audiokinetic Wwise (Wave Works Interactive Sound Engine)
 VCV Rack
+Audacity
 
 
 ## PROGRAMMING LANGUAGES
