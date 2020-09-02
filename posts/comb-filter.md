@@ -37,7 +37,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 <br />Feedforward comb filter demonstration
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ui1oK012tnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-<img src="https://user-images.githubusercontent.com/64982634/92009417-6667f400-ed40-11ea-950a-f94513b062f1.png" width="297">
+<img src="https://user-images.githubusercontent.com/64982634/92009417-6667f400-ed40-11ea-950a-f94513b062f1.png" width="591">
 *Fig.3 - Impulse response of a non-recirculating (feedforward) comb filter*
 <br />
 ![delay-time-feedforward-color](https://user-images.githubusercontent.com/64982634/92009533-93b4a200-ed40-11ea-81b9-e945716d57ec.png)
@@ -59,10 +59,10 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 <br />Video demonstration of feedback comb filter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBkURqWqTFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-![waveform-analysis-fbcomb-crop](https://user-images.githubusercontent.com/64982634/92009938-1a697f00-ed41-11ea-982e-1737d40f044b.png)
+<img src="https://user-images.githubusercontent.com/64982634/92009938-1a697f00-ed41-11ea-982e-1737d40f044b.png" width="591">
 *Fig.7 - Time domain behavior of the delay network*
 <br />
-![spect-analysis-fbcomb](https://user-images.githubusercontent.com/64982634/92010122-4f75d180-ed41-11ea-80c0-e7d6a1df5a3f.png)
+<img src="https://user-images.githubusercontent.com/64982634/92010122-4f75d180-ed41-11ea-80c0-e7d6a1df5a3f.png" width="591">
 *Fig.8 - Spectrogram analysis*
 <br />
 Comb filtering can occur as an undesirable result of reflections in your studio or be used intentionally as a creative tool. Understanding how it works can
