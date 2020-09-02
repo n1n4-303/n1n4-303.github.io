@@ -6,7 +6,7 @@ permalink: /tutorials/comb-filter
 
 # Comb filter - When you think about it, everything is a filter
 
-Filters are a very powerful tool when it comes to building the character of your sound, they allow some frequencies to pass and attenuate others, depending on what kind of filter you're using, they can be subtle or completely modify your sound. There are many possible filter designs - a filter is an amplifier whose gain changes with frequency and that can be used in several ways. Think about it, a lot of effects we use are filter effects.
+<br />Filters are a very powerful tool when it comes to building the character of your sound, they allow some frequencies to pass and attenuate others, depending on what kind of filter you're using, they can be subtle or completely modify your sound. There are many possible filter designs - a filter is an amplifier whose gain changes with frequency and that can be used in several ways. Think about it, a lot of effects we use are filter effects.
 <br />A delay network can have a gain that varies as a function of frequency and a delay network that is designed specifically for its frequency or phase response is called a filter (PUCKETTE, 2007). We're going to take a look at that specific type of filtering. 
 <br />
 A little heads up here: I will introduce some concepts before we get to the patching but please don't run away, I promise we'll get there (or just skip over if you feel like it). A comb filter is a Linear Time-Invariant (LTI) filter implemented by adding delay to the original signal creating amplifications and cancellations to the waveform. However, you can also implement time varying comb filters to produce some greatly used effects such as phasers, flangers and chorus.
