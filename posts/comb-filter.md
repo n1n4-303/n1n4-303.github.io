@@ -41,7 +41,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 *Fig.3 - Impulse response of a non-recirculating (feedforward) comb filter*
 <br />
 ![delay-time-feedforward-color](https://user-images.githubusercontent.com/64982634/92009533-93b4a200-ed40-11ea-81b9-e945716d57ec.png)
-*Fig.4 - Amount of delay being read defined in [delread~]*
+*Fig.4 - Amount of delay being read as defined in [delread~]*
 <br />
 
 ## FEEDBACK
