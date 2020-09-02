@@ -12,8 +12,9 @@ Filters are a very powerful tool when it comes to building the character of your
 A little heads up here: I will introduce some concepts before we get to the patching but please don't run away, I promise we'll get there (or just skip over if you feel like it). A comb filter is a Linear Time-Invariant (LTI) filter implemented by adding delay to the original signal creating amplifications and cancellations to the waveform. However, you can also implement time varying comb filters to produce some greatly used effects such as phasers, flangers and chorus.
 <br />
 ## Let's break it down
-<br />
+
 Linear time-invariant means:
+<br />
 - linear: the output is linearly related to the input. 
 - time invariant - it doesn't matter when an input was applied, its behavior will be the same
 
@@ -58,10 +59,10 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 <br />Video demonstration of feedback comb filter
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CBkURqWqTFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-<img src="https://user-images.githubusercontent.com/64982634/92009938-1a697f00-ed41-11ea-982e-1737d40f044b.png" width="297">
+![waveform-analysis-fbcomb-crop](https://user-images.githubusercontent.com/64982634/92009938-1a697f00-ed41-11ea-982e-1737d40f044b.png)
 *Fig.7 - Time domain behavior of the delay network*
 <br />
-<img src="https://user-images.githubusercontent.com/64982634/92010122-4f75d180-ed41-11ea-80c0-e7d6a1df5a3f.png" width="297">
+![spect-analysis-fbcomb](https://user-images.githubusercontent.com/64982634/92010122-4f75d180-ed41-11ea-80c0-e7d6a1df5a3f.png)
 *Fig.8 - Spectrogram analysis*
 <br />
 Comb filtering can occur as an undesirable result of reflections in your studio or be used intentionally as a creative tool. Understanding how it works can
