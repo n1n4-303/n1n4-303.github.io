@@ -53,7 +53,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 <br />
 <br />In Pd, I created an array consisting of a simple signal for testing and played it back using [tabplay~], that signal is sent down a delay line and the delay lenght is defined in ms [delwrite~ fbcomb 5000]. [delread~ fbcomb] is the delay line output, we have to multiply it by a gain before being fed into the input. Be careful when multiplying because if you multiply by a number greater than 1 or less than -1, instead of an exponential decay the signal will keep adding up and growing creating an unstable system.
 <br />
-![pd-invert-recirculating-comb](https://user-images.githubusercontent.com/64982634/92009792-ef7f2b00-ed40-11ea-9be8-e58d6020a6fc.png)
+<img src="https://user-images.githubusercontent.com/64982634/92009792-ef7f2b00-ed40-11ea-9be8-e58d6020a6fc.png" width="591">
 *Fig. 6 - Feedback comb filter implementation in Pd*
 <br />
 <br />Video demonstration of feedback comb filter
