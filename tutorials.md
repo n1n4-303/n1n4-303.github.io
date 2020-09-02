@@ -10,3 +10,4 @@ permalink: /tutorials/
 <br />[PURE DATA] [Ring modulation - exterminate, exterminate!](https://n1n4-303.github.io/tutorials/ring-modulation)
 <br />[PURE DATA/VCV Rack] [Create your own VCV Rack module with Pd](https://n1n4-303.github.io/tutorials/vcv-pd)
 <br />[PURE DATA] [Easter egg - Making a Pd sound design tool](https://n1n4-303.github.io/tutorials/easteregg)
+<br />[PURE DATA] [Comb filter - When you think about it, everything is a filter](https://n1n4-303.github.io/tutorials/comb-filter)
