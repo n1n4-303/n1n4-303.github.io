@@ -68,6 +68,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 Comb filtering can occur as an undesirable result of reflections in your studio or be used intentionally as a creative tool. Understanding how it works can
 be helpful in fixing or creating things. Once again, if you want to learn more and understand the subject more deeply, I strongly recommend the material
 in the references section.
+<br />
 
 ================================================================================ 
 References
