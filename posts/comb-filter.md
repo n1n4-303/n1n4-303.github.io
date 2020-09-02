@@ -13,7 +13,7 @@ A little heads up here: I will introduce some concepts before we get to the patc
 <br />
 ## Let's break it down
 
-Linear time-invariant means:
+<br />Linear time-invariant means:
 <br />
 - linear: the output is linearly related to the input. 
 - time invariant - it doesn't matter when an input was applied, its behavior will be the same
