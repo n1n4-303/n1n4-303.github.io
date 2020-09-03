@@ -16,7 +16,7 @@ A little heads up here: I will introduce some concepts before we get to the patc
 <br />Linear time-invariant means:
 <br />
 - linear: the output is linearly related to the input. 
-- time invariant - it doesn't matter when an input was applied, its behavior will be the same
+- time invariant: it doesn't matter when an input was applied, its behavior will be the same
 
 <br />LTI filters are characterized by their impulse response, so any LTI filter can be implemented by convolving the input signal with the filter impulse response. We'll take a look at our patches impulse responses soon.
 <br />We have two basic types of comb filter: feedforward and feedback, referring to the direction in which signals are delayed before they are added to the input.
@@ -24,7 +24,7 @@ A little heads up here: I will introduce some concepts before we get to the patc
 
 ## FEEDFORWARD
 
-<br />The feedforward comb filter is a particular type of finite impulse response (FIR) filter, in other words, the impulse response is of finite duration, because it settles to zero in finite time - you'll see in the demonstration video that as soon as I turn it down it stops. In this type of filter the output is a linear combination of the direct and delayed signal.
+<br />The feedforward comb filter is a particular type of finite impulse response (FIR) filter, in other words, the impulse response is of finite duration, because it settles to zero in finite time - you'll see in the demonstration video that as soon as I shut it down it stops. In this type of filter the output is a linear combination of the direct and delayed signal.
 <br />
 ![500px-Comb_filter_feedforward-bw](https://user-images.githubusercontent.com/64982634/92009179-0709e400-ed40-11ea-81f9-37d5e0bb315f.png)
 *Fig. 1 - Feedforward comb filter structure*
@@ -46,7 +46,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 
 ## FEEDBACK
 
-<br />The feedback comb filter has a Infinite Impulse Response (IIR), that happens because there is feedback from the delayed output being fed to the input so it continues indefinitely as a repeating series of impulses of exponentially decaying amplitude over time. In the video demonstrations you'll see a different behavior from our previous patch.
+<br />The feedback comb filter has an Infinite Impulse Response (IIR), that happens because there is feedback from the delayed output being fed to the input so it continues indefinitely as a repeating series of impulses of exponentially decaying amplitude over time. In the video demonstrations you'll see a different behavior from our previous patch.
 <br />
 ![500px-Comb_filter_feedback-bw](https://user-images.githubusercontent.com/64982634/92009618-ae871680-ed40-11ea-8666-0bdd236f5910.png)
 *Fig. 5 - Feedback comb filter structure*
