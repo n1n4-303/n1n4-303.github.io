@@ -27,7 +27,7 @@ A little heads up here: I will introduce some concepts before we get to the patc
 <br />The feedforward comb filter is a particular type of finite impulse response (FIR) filter, in other words, the impulse response is of finite duration, because it settles to zero in finite time - you'll see in the demonstration video that as soon as I shut it down it stops. In this type of filter the output is a linear combination of the direct and delayed signal.
 <br />
 ![500px-Comb_filter_feedforward-bw](https://user-images.githubusercontent.com/64982634/92009179-0709e400-ed40-11ea-81f9-37d5e0bb315f.png)
-*Fig. 1 - Feedforward comb filter structure <a href="https://commons.wikimedia.org/wiki/File:Comb_filter_feedforward.svg" title="via Wikimedia Commons">Krishnavedala</a> / CC0*
+*Fig. 1 - Feedforward comb filter structure by <a href="https://commons.wikimedia.org/wiki/File:Comb_filter_feedforward.svg" title="via Wikimedia Commons">Krishnavedala</a> / CC0*
 <br />
 Let's test this with Pd and then analyze the response. I'm going to feed an impulse that is going directly into the output and writing a copy of it to [delwrite~] that will be added into the signal before the output.
 <br />
@@ -49,7 +49,7 @@ Let's test this with Pd and then analyze the response. I'm going to feed an impu
 <br />The feedback comb filter has an Infinite Impulse Response (IIR), that happens because there is feedback from the delayed output being fed to the input so it continues indefinitely as a repeating series of impulses of exponentially decaying amplitude over time. In the video demonstrations you'll see a different behavior from our previous patch.
 <br />
 ![500px-Comb_filter_feedback-bw](https://user-images.githubusercontent.com/64982634/92009618-ae871680-ed40-11ea-8666-0bdd236f5910.png)
-*Fig. 5 - Feedback comb filter structure <a href="https://commons.wikimedia.org/wiki/File:Comb_filter_feedforward.svg" title="via Wikimedia Commons">Krishnavedala</a> / CC0*
+*Fig. 5 - Feedback comb filter structure by <a href="https://commons.wikimedia.org/wiki/File:Comb_filter_feedback.svg" title="via Wikimedia Commons">Krishnavedala</a> / CC0*
 <br />
 <br />In Pd, I created an array consisting of a simple signal for testing and played it back using [tabplay~], that signal is sent down a delay line and the delay lenght is defined in ms [delwrite~ fbcomb 5000]. [delread~ fbcomb] is the delay line output, we have to multiply it by a gain before being fed into the input. Be careful when multiplying because if you multiply by a number greater than 1 or less than -1, instead of an exponential decay the signal will keep adding up and growing creating an unstable system.
 <br />
