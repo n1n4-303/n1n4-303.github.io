@@ -10,15 +10,15 @@ permalink: /resume/
 
 Ableton Live
 Reason
-Logic Pro
+Reaper
 Audiokinetic Wwise (Wave Works Interactive Sound Engine)
 VCV Rack
 Audacity
+Sonic Visualiser
 
 
 ## PROGRAMMING LANGUAGES
 Pure Data
-C#
 Processing
 
 ## EDUCATION  
