@@ -6,7 +6,7 @@ permalink: /
 
 ## Music Producer/Sound designer
 
-Nina (aka. Paranoia) is a Brazilian producer/audio designer based in Lisbon. Paranoia started making electronic music in 2009. They’re inspired by the underground sound of techno, EBM and by synthesizer and electronic music pioneers, that influence can be heard throughout their productions and DJ sets. Paranoia’s goal is to create a unique sonic experience every time.
+Nina (aka. Paranoia) is a Brazilian music producer/audio designer based in Lisbon, currently working in videogames.
 
 ### Wwise demo
 
