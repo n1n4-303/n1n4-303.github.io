@@ -42,7 +42,7 @@ Wwise 101 (2021)
 Audiokinetic, Certificate ID: a8450d4e-aef6-28db-3fd7-5a0cf54de2bb
 <br />Developing Your Musicianship – Berklee College of Music (2016)
 Coursera Course Certificates, License K98X8T8S3AYN
-https://www.coursera.org/account/accomplishments/verify/K98X8T8S3AYN
+[Verify](https://www.coursera.org/account/accomplishments/verify/K98X8T8S3AYN)
 <br />TOEFL ITP (2014)
 Educational Testing Service (ETS)
 <br />DJ – Dancemusic Master (2009)
