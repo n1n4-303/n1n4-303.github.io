@@ -1,3 +1,5 @@
+{% include header.html %}
+
 ---
 title: home
 layout: home
