@@ -1,6 +1,5 @@
-{% include header.html %}
-
 ---
+{% include header.html %}
 title: home
 layout: home
 permalink: /
