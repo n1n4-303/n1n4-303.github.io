@@ -2,7 +2,6 @@
 title: home
 layout: home
 permalink: /
-Content-Security-Policy: default-src 'self'; frame-ancestors 'self'; form-action 'self';
 ---
 
 ## Music Producer/Sound designer
