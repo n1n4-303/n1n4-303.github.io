@@ -50,7 +50,7 @@ Video demonstration
 <br />
 I encourage you to try ring modulation and see what kind of sounds you can produce just by using this effect, try using different waveshapes and see how you can produce complex spectra, like in the example below.
 <br />
-<img src="https://user-images.githubusercontent.com/64982634/87942700-e7bb3e00-ca94-11ea-8284-0fbc554ecf25.JPG" width="591">
+<img src="/img/Fig.6_sawtooth_carrier.jpg" width="591">
 *Fig.6 - Using a sawtooth as carrier*
 <br />
 <img src="https://user-images.githubusercontent.com/64982634/87942786-01f51c00-ca95-11ea-85f9-051ffd4ff56e.JPG" width="591">
