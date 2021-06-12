@@ -9,13 +9,13 @@
         http-equiv='Content-Security-Policy' 
         content="default-src 'self' ;
                  child-src blob:;
-                 img-src 'self' data: blob:;
+                 connect-src 'self';
                  font-src 'self' https://fonts.gstatic.com;
+                 frame-src https://www.youtube.com;
+                 img-src 'self' data: https:;
                  media-src *;
                  script-src 'self';
-                 connect-src 'self';
                  object-src 'none';
-                 frame-src https://www.youtube.com;
                  style-src 'self' https://fonts.googleapis.com;"
         />
   
