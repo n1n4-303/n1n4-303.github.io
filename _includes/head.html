@@ -8,14 +8,14 @@
   <meta 
         http-equiv='Content-Security-Policy' 
         content="default-src 'self' ;
-                 img-src 'self' data: *.githubusercontent.com; 
+                 img-src 'self' data: blob: *.githubusercontent.com; 
                  child-src 'self' blob: *.youtube.com; 
                  font-src 'self' https://fonts.gstatic.com;
                  media-src *;
                  script-src 'self';
                  connect-src 'self';
                  object-src 'none';
-                 frame-src 'self' blob: *.youtube.com;
+                 frame-src 'self' https://disqus.com *.youtube.com *.vimeo.com;
                  style-src 'self' https://fonts.googleapis.com;"
         />
   
