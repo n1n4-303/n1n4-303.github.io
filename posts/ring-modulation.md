@@ -11,7 +11,7 @@ permalink: /tutorials/ring-modulation
 <a title="No machine-readable author provided. Gablin assumed (based on copyright claims). / CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)" href="https://commons.wikimedia.org/wiki/File:Ring_Modulator.PNG"><img width="512" alt="Ring Modulator" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Ring_Modulator.PNG"></a>
 *Fig.1 - Ring modulator schematic*
 <br />
-<img src="https://i2.wp.com/media.tumblr.com/tumblr_mcyszapmEg1rucjjm.gif">
+![tumblr_mcyszapmEg1rucjjm](https://user-images.githubusercontent.com/64982634/121810257-08b1f200-cc58-11eb-8883-a18c3f4ae1f8.gif)
 <br />
 In ring modulation, the carrier signal is multiplied by the modulating signal. If the modulator is under the audible range, you will perceive it as a tremolo, however if the modulating frequency is within the audible range, it will produce sidebands that correspond to the sum and difference between the frequencies of each oscillator at the output. This effect can be used to modify sounds and produce robotic voices - like Daleks - and metalic, inharmonic chaotic tones, as I will demonstrate.
 <br />Let me show you what I mean by that: we're going to multiply two [osc~] objects and take a look at the spectrum produced as a result.
