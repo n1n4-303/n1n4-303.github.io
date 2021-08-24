@@ -8,6 +8,11 @@ permalink: /
 
 Nina aka. Paranoia (They/them) is a Brazilian audio designer/electronic music producer based in Lisbon, currently working in videogames.
 
+### Sound design demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IWu5Ao9SBAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
 ### Wwise demo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/39J1ile_gDk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
