@@ -9,8 +9,9 @@ permalink: /resume/
 ## TECHNOLOGIES AND TOOLS
 
 Ableton Live
-Reason
 Reaper
+Reason
+Unreal Engine
 Audiokinetic Wwise (Wave Works Interactive Sound Engine)
 VCV Rack
 Audacity
