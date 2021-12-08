@@ -52,7 +52,7 @@ Dancefloor DJ Academy – Lisbon, PT
 <br />Music Production – Dancemusic Master (2009)
 Dancefloor DJ Academy – Lisbon, PT
 
-## Contact me 
+# Contact me 
 <br />email: vi.marinavieira@gmail.com
 [![Linkedin]((https://user-images.githubusercontent.com/64982634/145245132-5b913963-6a02-447a-a3c9-dea56bdfc369.png))][1]
 
