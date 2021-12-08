@@ -54,7 +54,5 @@ Dancefloor DJ Academy – Lisbon, PT
 
 # Contact me 
 email: vi.marinavieira@gmail.com
-[![Linkedin](https://user-images.githubusercontent.com/64982634/145246259-d3406887-ef0b-43ad-9255-45cda92f221e.png)][1]
-
-[1]: https://www.linkedin.com/in/marina-vieira-audio/ 
+Linkedin: https://www.linkedin.com/in/marina-vieira-audio/ 
  
