@@ -12,7 +12,7 @@ Ableton Live
 Reaper
 Reason
 Unreal Engine
-Audiokinetic Wwise (Wave Works Interactive Sound Engine)
+Audiokinetic Wwise
 VCV Rack
 Audacity
 Sonic Visualiser
@@ -52,4 +52,7 @@ Dancefloor DJ Academy – Lisbon, PT
 <br />Music Production – Dancemusic Master (2009)
 Dancefloor DJ Academy – Lisbon, PT
 
-<br />contact me: vi.marinavieira@gmail.com
+## Contact me 
+<br />email: vi.marinavieira@gmail.com
+<br /> [LinkedIn](www.linkedin.com/in/marina-vieira-audio)
+ 
