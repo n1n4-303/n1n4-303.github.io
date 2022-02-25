@@ -40,7 +40,7 @@ Spanish (basic)
 
 ## CERTIFICATIONS
 
-Wwise 201 - Interactive Music (2022)
+<br />Wwise 201 - Interactive Music (2022)
 Audiokinetic, Certificate ID: 0582f5ed-8228-415c-8305-9416ed408282
 <br />Wwise 101 (2021)
 Audiokinetic, Certificate ID: a8450d4e-aef6-28db-3fd7-5a0cf54de2bb
