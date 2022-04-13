@@ -10,7 +10,7 @@ Nina aka. Paranoia (They/them) is a Brazilian audio designer/electronic music pr
 
 ### Sound design demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qL5A2hyl2RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QanVjmX_bOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
 ### Wwise demo
